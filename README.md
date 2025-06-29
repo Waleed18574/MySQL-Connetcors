@@ -3,6 +3,8 @@
 # International Bites Analysis and Sales Report: Introduction and Executive Summary
 This document presents the introduction and executive summary for a comprehensive SQL database portfolio project focused on the "International Bites" restaurant. This project demonstrates proficiency in database management, data analysis, and the integration of Python with MySQL for robust reporting.
 
+<img src = "assets/data-model.PNG">
+
 ## Introduction
 This portfolio project, titled "International Bites Analysis and Sales Report," showcases a practical application of SQL and Python for managing and analyzing restaurant operational data. The primary objective is to demonstrate the ability to establish and manage database connections, perform concurrent data manipulations, extract meaningful insights through various queries, and develop reusable stored procedures for business intelligence.
 
